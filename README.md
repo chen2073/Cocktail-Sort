@@ -1,2 +1,2 @@
 # Cocktail-Sort
-Sorting Algorithm
+An implemtation of cocktail sort algorithm
